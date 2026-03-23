@@ -4,7 +4,7 @@ This paper focuses on predicting menstrual cycle phases using data from the mcPH
 
 
 We took the following steps :
-Data integration from multiple sources (wearables, logs) and combined physiological + behavioral + temporal data
-Preprocessing & feature engineering to extract meaningful signals 
-Model training using machine learning algorithms
-Evaluation of how well models predict different menstrual phases that can be applied to real-world settings.
+Data integration from multiple sources (wearables, logs) and combined physiological + behavioral + temporal data, 
+preprocessing & feature engineering to extract meaningful signals, 
+model training using machine learning algorithms, and 
+evaluation of how well models predict different menstrual phases that can be applied to real-world settings.
